@@ -29,7 +29,7 @@ library SafeMath {
 
 }
 
-contract BTT is ITRC20 {
+contract PAFT is ITRC20 {
     using SafeMath for uint256;
     string constant public name = "Pineapple Fans";
     string constant public symbol = "PAFT";
